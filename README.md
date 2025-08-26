@@ -5,8 +5,8 @@ It is designed for learning, practicing, and quick reference during competitive 
 
 ✨ Features  
 🎯 Algorithm Implementations: From Euclid’s GCD to strobogrammatic numbers.  
-🔢 Array & String Tricks: Palindromes, majority element, longest 1s, more.
-🔍 Number Theory: Euler’s Totient, segmented sieve, prime generation.  
+🔢 Array & String Tricks: Palindromes, majority element, longest 1s, more.  
+🔍 Number Theory: Euler’s Totient, segmented sieve, prime generation.    
 🟠 Bit Manipulation: Swap nibbles, toggle switches, all in one place!  
 ✅ Beginner-Friendly Java: No libraries, just logic.   
 
