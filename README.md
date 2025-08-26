@@ -3,12 +3,12 @@ This repository contains Java implementations of popular algorithms, data-struct
 It is designed for learning, practicing, and quick reference during competitive programming or interview prep.  
 
 
-🚀 Features  
-Implementations of Mathematical Algorithms (Euclid, Euler, Sieve, Strobogrammatic, etc.)  
-Array & String Problems (Majority element, Longest sequence of 1s, Hourglass sum, etc.)  
-Bit Manipulation problems (Swap nibbles, Toggle switch, Binary palindrome, etc.)  
-Easy-to-understand Java code (beginner-friendly, no extra dependencies)  
-Structured into simple .java files for modular practice  
+✨ Features  
+🎯 Algorithm Implementations: From Euclid’s GCD to strobogrammatic numbers.  
+🔢 Array & String Tricks: Palindromes, majority element, longest 1s, more.
+🔍 Number Theory: Euler’s Totient, segmented sieve, prime generation.  
+🟠 Bit Manipulation: Swap nibbles, toggle switches, all in one place!  
+✅ Beginner-Friendly Java: No libraries, just logic.   
 
 📂 Repository Structure  
 Binary_palindrome = java	Checks if a binary representation of a number is a palindrome  
@@ -31,14 +31,6 @@ Prerequisites
 Java Development Kit (JDK 8 or above)  
 Any Java IDE (IntelliJ IDEA, Eclipse, VS Code) or simply use javac & java in terminal  
 
-Run an Algorithm  
-Clone the repository:    
-  git clone https://github.com/Avanish0210/Coading_Algoritms.git  
-  cd Coading_Algoritms  
-
-Compile and run any file:  
-  javac Binary_palindrome.java  
-  java Binary_palindrome  
 
 📖 Topics Covered  
 ✔️ Number Theory  
