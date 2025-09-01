@@ -4,7 +4,7 @@ public class Max_equil_Sum {
         Scanner sc = new Scanner(System.in);
         int arr[] = {-7,1,5,2,-4,3,0};
         int n = arr.length;
-        boolean found;
+        
         
         // Step 1: Compute prefix sums
         int prefix[] = new int[n];
