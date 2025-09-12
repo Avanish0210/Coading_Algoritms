@@ -1,7 +1,6 @@
 import java.util.*;
 //Time complexity = o(log(n))
 public class Binary_palindrome {
-
     static boolean check(int n ,ArrayList<Integer> binary_array){
         int st = 0 ; 
         int end = binary_array.size()-1;

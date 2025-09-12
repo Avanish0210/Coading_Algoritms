@@ -35,8 +35,6 @@ public class Strobogrammatic_Number {
             array.add(digit);
 
         }
-        
-
         if(check(array)){
             System.out.println(true);
         }else{
