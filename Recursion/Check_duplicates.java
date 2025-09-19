@@ -1,5 +1,6 @@
-import java .util.*;
-public class temp{
+package Recursion;
+
+public class Check_duplicates {
     public static boolean[] map = new boolean[26];
     public static void Cheack_charr(String s ,int indx , String newstr){
         if(indx == s.length()){
@@ -24,6 +25,5 @@ public class temp{
         Cheack_charr(s, 0, "");
         
     }
+    
 }
-
-
