@@ -1,4 +1,4 @@
-package Recursion;
+//package Recursion;
 
 public class Check_duplicates {
     public static boolean[] map = new boolean[26];

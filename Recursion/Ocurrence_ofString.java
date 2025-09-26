@@ -1,4 +1,4 @@
-package Recursion;
+//package Recursion;
 
 public class Ocurrence_ofString {
     //declare some static variables so that our value does not change during recursion

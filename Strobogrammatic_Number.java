@@ -27,7 +27,7 @@ public class Strobogrammatic_Number {
     }
     
     public static void main(String [] args){
-        int n = 5689;
+        int n = 108;
         ArrayList<Integer> array = new ArrayList<>();
         while(n>0){
             int digit = n%10;

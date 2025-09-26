@@ -1,4 +1,4 @@
-package Recursion;
+//package Recursion;
 
 public class Subsequence {
     public static void subseq(String s , int indx , String newstr){
