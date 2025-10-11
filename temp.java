@@ -1,23 +1,18 @@
-import java .util.*;
 public class temp{
-    public static void main(String []args){ 
-        ArrayList<Integer> ans = new ArrayList<>();   
-        ans.add(1);
-        ans.add(4);
-        ans.add(4);
-        System.out.println(ans);
 
-        ArrayList<Integer> an = new ArrayList<>();   
-        an.add(4);
-        an.add(4);
-        an.add(1);
-        System.out.println(an);
+    public static int fact(int n){
+        int ans = 1;
+        while(n>0){
+            ans = ans * n;
+            n = n-1;
 
-        if(ans == an){
-            System.out.println("jbhdd");
         }
-        
+        return ans;
     }
+    public static void main(String []args){
+    int n = 4;
+    System.out.println(fact(n));
+
+    }
+
 }
-
-
