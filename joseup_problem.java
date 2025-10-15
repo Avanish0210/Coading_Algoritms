@@ -1,5 +1,4 @@
-import java.util.*;
-public class temp{
+public class joseup_problem {
     public static int joseup(int n , int k){
         if(n==1){
             return 1;
@@ -12,5 +11,5 @@ public class temp{
         System.out.println(joseup(n, k));
 
     }
-        
+    
 }
