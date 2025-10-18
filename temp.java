@@ -1,15 +1,15 @@
 import java.util.*;
 public class temp{
-    public static int joseup(int n , int k){
-        if(n==1){
-            return 1;
-        }else{
-            return (joseup(n-1, k) + k-1) % n+1;
+    
+    public static void main(String []args){
+        String str = "hello-world-";
+        char[] chararray = str.toCharArray();
+        int n = chararray.length;
+        int i = n-1;
+        for(int j = i ; j>=0 ; j--){
+            if()
         }
-    }
-    public static void main(String[] args){
-        int n = 6 , k = 2;
-        System.out.println(joseup(n, k));
+
 
     }
         

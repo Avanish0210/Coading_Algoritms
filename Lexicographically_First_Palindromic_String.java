@@ -7,7 +7,7 @@ public class Lexicographically_First_Palindromic_String{
     }
     public static void main(String[] args){
 
-        String str = "aabcc";
+        String str = "aabc";
         char[] chararray = str.toCharArray();
         int[] arr = new int[chararray.length];
         for(int i = 0 ; i<chararray.length ; i++){

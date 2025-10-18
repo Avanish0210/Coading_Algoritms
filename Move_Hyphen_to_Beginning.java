@@ -3,7 +3,6 @@ public class Move_Hyphen_to_Beginning {
         String str = "hello-world-";
         char[] chararray = str.toCharArray();
         int i = chararray.length-1;
-
         for(int j = i ; j>=0 ; j--){
             if(chararray[j]!='-'){
                 char c = chararray[i];

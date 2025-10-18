@@ -6,9 +6,7 @@ public class Rat_In_Maze {
         //base cases
         if(r<0 || c<0 || r>=n || c>=n || matrix[r][c]==0 || matrix[r][c] == -1){
             return;
-
         }
-
         if(r==n-1 && c==n-1){
             ans.add(path);
             return;
@@ -23,9 +21,6 @@ public class Rat_In_Maze {
 
         //temp[r][c] = false;
         matrix[r][c] = 1;
-
-
-
     }
 
     public static List<String> findpath(int[][] matrix){
@@ -34,7 +29,6 @@ public class Rat_In_Maze {
         //boolean[][] temp = new boolean[n][n];
         String path = "";
         helper(matrix, 0, 0, ans,path);
-
         return ans;
 
     }

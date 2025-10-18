@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Leaders_inArray {
     public static void main(String []args){
-        int[] arr = {17,17,4,3,5,2};
+        int[] arr = {16,17,4,3,5,2};
         int n = arr.length;
         ArrayList<Integer> ans = new ArrayList<>();
         

@@ -24,8 +24,11 @@ public class Swap_two_nibbles {
     public static void main(String[] args){
         int n = 100;
         ArrayList<Integer> Binary_arr = new ArrayList<>();
+
         binary(n, Binary_arr);
+        System.out.println(Binary_arr);
         swap(Binary_arr);
+        System.out.println(Binary_arr);
 
         double ans = 0;
         for(int i = 0 ; i<Binary_arr.size();i++){

@@ -3,6 +3,55 @@ public class Max_equil_Sum {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
         int arr[] = {-7,1,5,2,-4,3,0};
+
+
+
+
+
+
+
+{1,5,2,4,3}
+{14,9,7,3,0}
+{0,1,6,8,12}
+
+for(int i = 0 ; i<n ; i++){
+    if(prefix[i]==suffix[i]){
+        System.out.println(i);
+        System.out.println(arr[i]);
+    }
+}
+
+int[] prefix 
+prefix[0] =0;
+//prefix
+for(i 0 - n){
+    prefix[i] = arr[i] + prefix[i-1]
+
+}
+
+
+//suffix
+int[] suffix
+suffix[n-1] = 0
+for(int i = 0 ; i<n ; i++){
+    suffix[i] = arr[i] + suffix[i+1]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         int n = arr.length;
         
         
